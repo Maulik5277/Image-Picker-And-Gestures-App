@@ -1,10 +1,12 @@
 # Image-Picker-And-Gestures-App
-Using the GestureRecognizer make a very simple app
+## This is GestureRecognizer Simple iOS Application
 ##Usage
---UITapGestureRecognizer
---UIPinchGestureRecognizer
---UIRotationGestureRecognizer
---UISwipeGestureRecognizer
---UIPanGestureRecognizer
---UIimageview
-##video
+- UITapGestureRecognizer
+- UIPinchGestureRecognizer
+- UIRotationGestureRecognizer
+- UISwipeGestureRecognizer
+- UIPanGestureRecognizer
+- UIimageview
+##GIF
+#####  1
+![Page 1](output.gif)
