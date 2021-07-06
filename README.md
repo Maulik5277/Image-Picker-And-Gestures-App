@@ -7,6 +7,7 @@
 - UISwipeGestureRecognizer
 - UIPanGestureRecognizer
 - UIimageview
-##GIF
+- UITextview
+##Gif
 #####  1
 ![Page 1](output.gif)
