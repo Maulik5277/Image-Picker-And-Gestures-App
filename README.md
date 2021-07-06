@@ -1,6 +1,6 @@
 # Image-Picker-And-Gestures-App
 ## This is GestureRecognizer Simple iOS Application
-##Usage
+## Usage
 - UITapGestureRecognizer
 - UIPinchGestureRecognizer
 - UIRotationGestureRecognizer
@@ -8,6 +8,6 @@
 - UIPanGestureRecognizer
 - UIimageview
 - UITextview
-##Gif
+## Gif
 #####  1
 ![Page 1](output.gif)
